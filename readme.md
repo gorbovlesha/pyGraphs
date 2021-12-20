@@ -5,9 +5,7 @@ The default file is sar_mpgu_izh.csv.
 First of all to use it you need to install some packages using pip
 
 ```bash
-pip install matplotlib
-pip install pandas
-pip install numpy
+install anaconda
 ```
 
 ## Graphs
