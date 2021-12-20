@@ -13,3 +13,6 @@ This app creates 4 graphs using logs: CPU usage, Network usage, Load Average and
 
 Example:
 ![](resources/image_2021-12-10_16-45-02.png)
+
+
+#To check click: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gorbovlesha/pyGraphs/HEAD)
